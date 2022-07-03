@@ -1,5 +1,7 @@
 # motivation-rs
 
+A collection of motivating messages.
+
 ## License
 
 This project is licensed under either of
