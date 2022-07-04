@@ -1,5 +1,20 @@
-pub static MESSAGES: [&'static str; 3] = [
+pub static MESSAGES: [&'static str; 18] = [
     "Mess with the best, die like the rest.",
     "A million dollars isn't cool. You know what's cool? A billion dollars.",
     "This time you're gonna hand 'em a business card that says 'I'm CEO... bitch.'",
+    "Never interrupt your enemy when he is making a mistake.",
+    "Show me a family of readers, and I will show you the people who move the world.",
+    "Imagination governs the world.",
+    "If you want a thing done well, do it yourself.",
+    "Nothing is more difficult, and therefore more precious, than to be able to decide.",
+    "Take time to deliberate, but when the time for action comes, stop thinking and go in.",
+    "Impossible is a word to be found only in the dictionary of fools.",
+    "A leader is a dealer in hope.",
+    "The only victories which leave no regret are those which are gained over ignorance.",
+    "The best way to keep one's word is not to give it.",
+    "There are but two powers in the world, the sword and the mind. In the long run the sword is always beaten by the mind.",
+    "He who fears being conquered is sure of defeat.",
+    "The reason most people fail instead of succeed is they trade what they want most for what they want at the moment.",
+    "A picture is worth a thousand words.",
+    "Death is nothing, but to live defeated and inglorious is to die daily.",
 ];
