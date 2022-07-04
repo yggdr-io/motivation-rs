@@ -1,4 +1,4 @@
-pub static MESSAGES: [&'static str; 31] = [
+pub static MESSAGES: [&'static str; 32] = [
     "Mess with the best, die like the rest.",
     "A million dollars isn't cool. You know what's cool? A billion dollars.",
     "This time you're gonna hand 'em a business card that says 'I'm CEO... bitch.'",
@@ -30,4 +30,5 @@ pub static MESSAGES: [&'static str; 31] = [
     "Your brand is what other people say about you when you're not in the room.",
     "Position yourself with something that captures your curiosity, something that you're missionary about.",
     "Let's fuck this market!",
+    "We are all gonna make it.",
 ];
