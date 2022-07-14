@@ -1,4 +1,4 @@
-pub static MESSAGES: [&'static str; 18] = [
+pub static MESSAGES: [&'static str; 30] = [
     "Mess with the best, die like the rest.",
     "A million dollars isn't cool. You know what's cool? A billion dollars.",
     "This time you're gonna hand 'em a business card that says 'I'm CEO... bitch.'",
@@ -17,4 +17,16 @@ pub static MESSAGES: [&'static str; 18] = [
     "The reason most people fail instead of succeed is they trade what they want most for what they want at the moment.",
     "A picture is worth a thousand words.",
     "Death is nothing, but to live defeated and inglorious is to die daily.",
+    "We are stubborn on vision. We are flexible on details.",
+    "People who are right most of the time are people who change their minds often.",
+    "We can't be in survival mode. We have to be in growth mode.",
+    "Work Hard, have fun, make history.",
+    "If you never want to be criticized, for goodness' sake don't do anything new.",
+    "The great thing about fact-based decisions is that they overrule the hierarchy.",
+    "Your margin is my opportunity.",
+    "Maintain a firm grasp of the obvious at all times.",
+    "The death knell for any enterprise is to glorify the past - no matter how good it was.",
+    "It's not an experiment if you know it's going to work.",
+    "Your brand is what other people say about you when you're not in the room.",
+    "Position yourself with something that captures your curiosity, something that you're missionary about.",
 ];
