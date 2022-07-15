@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "motivation-rs"
+name = "motivation"
 version = "0.1.0"

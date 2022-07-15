@@ -1,5 +1,5 @@
 [package]
-name = "motivation-rs"
+name = "motivation"
 description = "A collection of motivating messages."
 version = "0.1.0"
 authors = ["Sergei Popinevskii <sergei@yggdr.io>"]
